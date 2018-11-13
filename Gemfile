@@ -5,6 +5,9 @@ source 'https://rubygems.org'
 # Uncomment the database that you have configured in config/database.yml
 # ----------------------------------------------------------------------
 
+
+asgagdadf
+
 case ENV['CI'] && ENV['DB']
 when 'sqlite'
   gem 'sqlite3'

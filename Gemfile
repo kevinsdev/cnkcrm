@@ -6,8 +6,6 @@ source 'https://rubygems.org'
 # ----------------------------------------------------------------------
 
 
-asgagdadf
-
 case ENV['CI'] && ENV['DB']
 when 'sqlite'
   gem 'sqlite3'
